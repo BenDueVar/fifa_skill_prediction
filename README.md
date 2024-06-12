@@ -80,4 +80,4 @@ PAS: This refers to the player’s passing ability. It measures the player’s a
 DRI: This refers to the player’s dribbling ability. It measures the player’s agility, balance, and ball control when dribbling the ball.
 DEF: This refers to the player’s defensive ability. It measures the player’s ability to tackle, intercept, and defend against opposing players.
 PHY: This refers to the player’s physicality or strength. It measures the player’s ability to win physical battles and maintain possession of the ball.
-Hits: This refers to the number of times the player’s profile has been viewed on the website.
+Hits: This refers to the number of times the player’s profile has been viewed on the website."# fifa_skill_prediction" 
